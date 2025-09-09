@@ -1,1 +1,501 @@
-
+Order ID,Customer Name,Food Item,Category,Quantity,Price,Payment Method,Order Time
+2268,Mary Vega DDS,Pasta,Main,5,16.52,Cash,2025-02-02 14:28:41
+3082,Brandon Myers,Brownie,Dessert,4,17.27,Debit Card,2025-06-08 10:57:47
+3160,Margaret Wells,Pasta,Main,1,3.37,Credit Card,2025-03-04 07:41:41
+1272,Michael Matthews,Pasta,Main,5,2.2,Online Payment,2025-05-15 12:43:45
+9447,Connor Williams,Soup,Starter,1,12.23,Cash,2025-03-15 14:25:56
+1587,Matthew Miles,Brownie,Dessert,5,7.39,Credit Card,2025-04-12 05:49:18
+2834,Catherine Thompson,Soup,Starter,3,8.31,Credit Card,2025-06-20 18:19:56
+4514,Nathan Holland,Soup,Starter,4,2.28,Cash,2025-05-30 09:24:15
+3946,Anthony Sherman,Pasta,Main,1,13.05,Credit Card,2025-06-03 01:41:32
+3174,Carolyn Roberts,Cake,Dessert,4,19.48,Cash,2025-07-18 00:59:40
+8018,Johnny Dennis,Burger,Main,5,11.79,Debit Card,2025-04-28 08:09:19
+5134,Michael Barton,Cake,Dessert,1,20.73,Online Payment,2025-02-05 00:34:29
+5409,Heidi Boyle,Ice Cream,Dessert,5,4.77,Cash,2025-04-28 08:32:14
+4626,George Smith,Fries,Starter,3,3.44,Credit Card,2025-05-05 08:56:44
+4390,Thomas Frazier,Pizza,Main,1,4.84,Cash,2025-04-22 02:38:14
+9040,David Bailey,Cake,Dessert,5,19.49,Cash,2025-05-21 14:35:14
+5649,Larry Harvey,Salad,Starter,4,21.98,Online Payment,2025-03-14 15:47:32
+7756,Christina Cochran,Brownie,Dessert,1,21.83,Credit Card,2025-07-26 08:22:01
+2857,Aaron Bruce,Salad,Starter,4,4.72,Debit Card,2025-04-22 19:43:14
+8170,Anna Smith,Pasta,Main,3,21.48,Cash,2025-05-28 17:07:49
+2933,Andrew Hill,Fries,Starter,3,20.78,Credit Card,2025-07-30 03:53:09
+3742,Angela Sherman,Burger,Main,2,10.81,Cash,2025-02-20 09:20:17
+8664,Austin Cain,Burger,Main,5,19.78,Debit Card,2025-05-20 16:56:15
+9769,Scott Clark,Burger,Main,2,17.22,Cash,2025-05-28 22:37:55
+9125,Cindy Smith,Fries,Starter,3,16.68,Online Payment,2025-08-04 13:08:16
+1486,Elizabeth Contreras,Fries,Starter,3,15.77,Debit Card,2025-07-11 07:28:29
+4707,Robert Simmons,Soup,Starter,3,24.45,Cash,2025-08-06 13:59:04
+1964,Ana Brooks,Soup,Starter,3,9.86,Cash,2025-01-28 08:49:22
+6828,Jason King,Salad,Starter,4,7.64,Cash,2025-03-02 10:16:01
+2651,Andrew Stephens,Soup,Starter,3,24.99,Online Payment,2025-03-14 12:34:52
+1088,Carol Lynch,Ice Cream,Dessert,1,14.82,Cash,2025-04-12 10:21:40
+6841,Amy Ellis,Brownie,Dessert,5,5.97,Credit Card,2025-08-12 09:36:10
+7606,Kathleen Miranda,Pizza,Main,3,19.67,Debit Card,2025-02-18 20:11:08
+7720,Lynn Smith,Cake,Dessert,1,22.1,Debit Card,2025-01-25 12:55:55
+9332,Michelle Rodriguez,Soup,Starter,3,14.6,Online Payment,2025-01-21 23:18:26
+7106,Emily Mcmillan,Salad,Starter,5,17.38,Cash,2025-06-21 22:04:03
+3007,Gavin Griffin,Ice Cream,Dessert,5,10.42,Online Payment,2025-03-11 15:50:55
+4081,Jennifer Friedman,Cake,Dessert,5,17.18,Online Payment,2025-03-26 08:57:40
+7215,Brittany Hughes,Soup,Starter,1,14.27,Cash,2025-07-30 19:02:58
+8800,Margaret Lopez,Soup,Starter,1,21.58,Cash,2025-06-26 13:08:04
+2121,Lori James,Burger,Main,1,22.48,Online Payment,2025-06-17 13:26:01
+2187,Heather Wheeler,Salad,Starter,2,12.43,Cash,2025-06-05 03:05:12
+9709,Susan Glenn,Cake,Dessert,4,21.78,Cash,2025-06-20 22:28:53
+9211,Richard Lee,Pizza,Main,5,6.59,Cash,2025-08-05 22:33:42
+9271,Jennifer Barron,Salad,Starter,1,7.31,Debit Card,2025-05-15 13:59:45
+4925,Lauren Freeman,Brownie,Dessert,5,12.99,Online Payment,2025-06-26 13:27:06
+4142,Matthew Perry,Ice Cream,Dessert,2,4.37,Online Payment,2025-05-01 01:41:15
+9859,William Rasmussen,Ice Cream,Dessert,5,10.01,Credit Card,2025-03-24 13:55:08
+2951,Anthony Jennings,Fries,Starter,3,22.14,Credit Card,2025-08-07 14:43:45
+9086,James Nixon,Soup,Starter,1,10.32,Online Payment,2025-08-14 07:20:06
+4055,Shannon Young,Salad,Starter,1,10.79,Credit Card,2025-05-09 05:40:15
+1684,Logan Maddox,Cake,Dessert,3,5.18,Debit Card,2025-01-27 14:30:34
+9428,Christina Donovan,Salad,Starter,5,3.53,Debit Card,2025-02-20 07:16:55
+7605,Jessica Burke,Pasta,Main,4,23.55,Credit Card,2025-07-13 12:42:17
+6565,Brandy Lewis,Cake,Dessert,4,6.61,Debit Card,2025-05-30 18:14:36
+6309,Sheri White,Salad,Starter,5,15.44,Online Payment,2025-08-01 17:25:44
+7930,Amanda Mcfarland,Brownie,Dessert,3,15.07,Cash,2025-04-24 12:27:11
+1430,James Jones,Soup,Starter,1,17.38,Credit Card,2025-06-09 09:53:31
+8321,Tamara Winters,Fries,Starter,1,19.75,Cash,2025-07-27 05:02:24
+2447,Jason Phillips,Brownie,Dessert,2,10.24,Debit Card,2025-02-10 13:04:34
+6306,Wyatt Jackson,Brownie,Dessert,1,12.0,Cash,2025-07-01 06:54:28
+6257,Nichole Lopez,Salad,Starter,5,14.18,Credit Card,2025-03-25 08:30:27
+4860,Eric Garcia,Ice Cream,Dessert,3,8.02,Debit Card,2025-02-01 04:21:21
+2013,Morgan Simmons,Burger,Main,4,9.02,Debit Card,2025-04-13 21:22:50
+3257,Jerry Singh,Brownie,Dessert,5,12.07,Online Payment,2025-06-10 04:12:29
+6815,Kurt Washington,Cake,Dessert,4,10.62,Online Payment,2025-01-18 02:30:54
+6857,Mary Johnson,Salad,Starter,4,13.08,Debit Card,2025-05-20 12:34:58
+8996,Cassandra Alexander,Fries,Starter,4,7.58,Cash,2025-05-04 07:28:26
+9485,Brittany Craig,Cake,Dessert,3,5.33,Online Payment,2025-05-13 20:32:40
+2535,Patrick Hanna,Pasta,Main,2,4.9,Online Payment,2025-02-12 05:00:14
+7940,Wendy Nichols,Cake,Dessert,4,3.79,Online Payment,2025-08-14 05:17:35
+7805,Dakota Hughes,Ice Cream,Dessert,1,17.82,Debit Card,2025-04-13 05:56:05
+7314,Justin Powell,Pizza,Main,2,9.13,Cash,2025-05-07 18:24:56
+2234,Jillian Jackson,Brownie,Dessert,3,21.28,Debit Card,2025-08-01 16:44:35
+8445,Shawn Cherry,Brownie,Dessert,3,6.18,Cash,2025-01-22 11:31:53
+8612,Dillon Church,Fries,Starter,4,6.95,Credit Card,2025-04-22 09:03:09
+7716,Shannon Morales PhD,Ice Cream,Dessert,3,19.07,Online Payment,2025-02-04 19:58:57
+2838,Christopher Bailey,Pizza,Main,4,17.14,Debit Card,2025-07-27 14:30:12
+6498,Connie Roberts,Soup,Starter,2,9.87,Cash,2025-02-25 11:41:54
+2151,Aimee White,Salad,Starter,4,4.45,Cash,2025-07-12 08:38:11
+7161,Daniel Fisher,Brownie,Dessert,4,22.68,Online Payment,2025-02-10 02:47:14
+8984,Kristin Bennett,Brownie,Dessert,4,17.02,Credit Card,2025-06-04 07:16:43
+3940,Catherine Jenkins,Pasta,Main,1,5.41,Credit Card,2025-05-29 05:00:15
+4859,Michael Miller,Salad,Starter,3,9.52,Cash,2025-04-12 14:32:05
+4144,Denise Murphy,Fries,Starter,2,3.8,Cash,2025-02-26 20:30:07
+7570,Larry Santiago,Burger,Main,4,21.01,Debit Card,2025-05-08 12:15:52
+6353,James Barber,Brownie,Dessert,1,19.99,Debit Card,2025-05-05 20:34:34
+9325,Gregory Brown,Ice Cream,Dessert,4,19.48,Cash,2025-03-12 08:06:31
+7972,Barbara Ray,Cake,Dessert,1,17.86,Cash,2025-03-25 05:17:32
+5758,Jordan Guzman,Salad,Starter,1,15.57,Cash,2025-07-27 06:08:47
+1616,Bruce Chambers,Cake,Dessert,2,16.45,Credit Card,2025-05-03 14:33:30
+5924,Dustin Holt,Salad,Starter,3,3.84,Online Payment,2025-05-22 04:02:15
+5982,Regina Gill,Ice Cream,Dessert,3,17.1,Cash,2025-05-07 08:42:03
+8278,Patricia Nunez,Brownie,Dessert,3,18.95,Credit Card,2025-02-02 02:30:15
+6080,Elizabeth Farley,Cake,Dessert,5,20.81,Debit Card,2025-02-17 09:39:24
+4056,Antonio Pena,Pizza,Main,4,15.11,Online Payment,2025-06-20 22:05:01
+8091,Lisa Mora,Fries,Starter,5,9.49,Cash,2025-05-23 04:28:08
+7043,Janet Salazar,Fries,Starter,2,5.93,Credit Card,2025-06-21 19:24:43
+1816,Brandy Terrell,Brownie,Dessert,3,21.93,Cash,2025-04-09 19:56:32
+4827,Jason Newman,Soup,Starter,2,13.38,Debit Card,2025-04-23 19:18:32
+7636,Mrs. Sheila Dean,Pasta,Main,4,18.54,Credit Card,2025-06-11 03:33:09
+6721,Ricardo Neal,Salad,Starter,5,5.87,Cash,2025-06-05 12:22:54
+1278,Kevin Gonzalez,Salad,Starter,3,8.7,Cash,2025-04-05 12:33:55
+5594,Raymond Cooper,Ice Cream,Dessert,5,16.81,Online Payment,2025-02-06 00:27:13
+5954,Christopher Kramer,Pasta,Main,3,6.4,Debit Card,2025-03-23 16:44:20
+3308,Antonio Nielsen,Pizza,Main,4,8.66,Cash,2025-03-10 07:08:28
+9276,Alison Smith,Salad,Starter,4,21.35,Debit Card,2025-04-20 11:28:39
+4011,Jamie Winters,Pizza,Main,1,6.17,Credit Card,2025-05-28 15:15:26
+8874,Nicole Parrish,Pizza,Main,1,23.88,Cash,2025-07-05 03:18:03
+8824,Diane Perez,Burger,Main,4,4.68,Cash,2025-05-08 13:37:54
+6823,Melinda Myers,Cake,Dessert,4,10.8,Credit Card,2025-02-20 18:15:15
+7479,Richard Brown,Burger,Main,5,10.93,Debit Card,2025-05-15 19:57:46
+6622,Erica Medina,Cake,Dessert,4,3.47,Debit Card,2025-06-20 23:52:25
+5624,Brenda Contreras,Pasta,Main,5,20.07,Credit Card,2025-04-04 16:28:30
+3244,Joe Barton,Burger,Main,5,2.35,Credit Card,2025-02-28 14:37:14
+6592,William Crane,Fries,Starter,1,8.88,Online Payment,2025-05-20 11:46:06
+3652,Aaron Clark,Salad,Starter,5,21.85,Credit Card,2025-03-10 07:36:28
+8051,Brandi Houston,Burger,Main,3,22.52,Credit Card,2025-08-12 11:08:52
+9739,Monica Richards,Cake,Dessert,5,19.65,Credit Card,2025-03-14 05:55:57
+9126,Dale Salinas,Brownie,Dessert,5,23.28,Credit Card,2025-01-05 06:31:17
+1770,Randall Decker,Brownie,Dessert,1,20.5,Online Payment,2025-03-29 05:22:33
+9240,Zachary Fisher,Brownie,Dessert,5,7.57,Debit Card,2025-08-01 08:53:34
+8168,Curtis Townsend,Salad,Starter,2,5.95,Credit Card,2025-02-02 01:44:49
+6967,James Martinez,Pizza,Main,2,2.17,Debit Card,2025-05-19 15:47:44
+9764,Mark Thomas,Pizza,Main,5,18.14,Debit Card,2025-07-08 04:59:34
+3017,Bobby Horton,Ice Cream,Dessert,1,14.93,Debit Card,2025-04-04 11:08:06
+8430,Matthew Hays,Ice Cream,Dessert,1,4.1,Cash,2025-08-01 20:43:44
+6443,Amy Mclean,Pasta,Main,1,7.93,Cash,2025-06-27 01:59:01
+5320,Kristy James,Fries,Starter,3,5.49,Online Payment,2025-06-27 03:50:14
+9963,Jonathan Turner,Pasta,Main,4,3.07,Debit Card,2025-02-05 21:59:57
+8629,Mrs. Melissa Schmidt,Burger,Main,1,9.28,Debit Card,2025-01-07 07:38:02
+6802,Lisa Andrade,Salad,Starter,2,8.41,Credit Card,2025-07-21 00:43:24
+3953,Phillip Lucas,Salad,Starter,4,13.31,Debit Card,2025-07-19 01:52:14
+3982,Nancy Shields,Soup,Starter,4,21.02,Debit Card,2025-04-20 11:23:52
+7240,Patricia Smith,Ice Cream,Dessert,4,19.19,Online Payment,2025-04-27 20:03:06
+6404,William Williams,Brownie,Dessert,5,16.54,Cash,2025-03-06 19:30:38
+2430,Stephanie Ortega,Cake,Dessert,1,10.69,Debit Card,2025-05-04 11:36:34
+4728,Amanda Cervantes,Brownie,Dessert,1,22.89,Cash,2025-06-26 21:34:35
+2261,Sara Garcia,Soup,Starter,2,12.87,Cash,2025-01-16 05:53:32
+8382,Andrea Reynolds,Pizza,Main,3,6.65,Credit Card,2025-07-29 07:04:35
+2110,Tracey Perez,Soup,Starter,1,20.0,Cash,2025-05-21 21:54:55
+5394,Lisa Jones,Brownie,Dessert,3,2.16,Online Payment,2025-05-27 19:19:46
+5411,Justin Howard,Pizza,Main,1,2.46,Online Payment,2025-05-22 17:00:20
+9087,Benjamin Stark,Brownie,Dessert,1,5.68,Debit Card,2025-05-28 05:50:50
+4846,Joshua Walls,Fries,Starter,2,10.54,Credit Card,2025-04-04 06:25:55
+3025,Jerome Bright,Brownie,Dessert,4,14.35,Credit Card,2025-07-16 23:04:15
+7969,Victoria Sims,Burger,Main,4,13.99,Credit Card,2025-02-14 04:48:09
+5906,Diana Davis,Fries,Starter,3,4.63,Credit Card,2025-06-02 10:35:36
+6116,Andrew Suarez,Burger,Main,5,4.95,Online Payment,2025-02-11 02:48:19
+3655,Melanie Keller,Fries,Starter,1,6.07,Debit Card,2025-01-11 12:27:45
+6789,Nicole Barrett,Brownie,Dessert,5,22.18,Cash,2025-06-14 14:56:50
+7824,Kimberly Gilbert,Brownie,Dessert,5,9.88,Cash,2025-05-22 21:34:05
+7257,Diane Olson,Pizza,Main,3,11.61,Debit Card,2025-04-01 15:08:15
+9301,Jessica Jacobs,Pasta,Main,1,17.89,Credit Card,2025-04-07 07:43:46
+3172,Deanna Glover,Cake,Dessert,1,4.57,Online Payment,2025-02-02 04:51:29
+4811,Steven Larson,Salad,Starter,5,8.06,Cash,2025-01-03 06:06:56
+5358,Mark Winters,Soup,Starter,4,5.53,Online Payment,2025-07-23 12:35:24
+3721,Nathan Harris,Ice Cream,Dessert,1,21.76,Online Payment,2025-01-26 04:04:59
+4472,David Barrett,Brownie,Dessert,1,24.96,Cash,2025-02-25 15:40:01
+9779,Bobby Miles,Pizza,Main,5,9.43,Online Payment,2025-01-22 08:47:12
+9053,Thomas Hernandez,Pizza,Main,4,16.4,Cash,2025-05-28 03:14:41
+4855,Todd Brown,Cake,Dessert,2,4.09,Credit Card,2025-01-05 20:38:45
+5550,Laura Wheeler,Pizza,Main,3,24.52,Debit Card,2025-07-28 21:27:09
+5788,Melissa Wolfe,Brownie,Dessert,3,3.84,Cash,2025-07-03 09:32:16
+2233,Victoria Ramirez,Cake,Dessert,3,17.26,Cash,2025-02-15 15:17:17
+9267,Hailey Massey,Brownie,Dessert,5,20.81,Cash,2025-01-12 06:36:13
+4233,Catherine Lucero,Pizza,Main,3,7.71,Debit Card,2025-02-11 20:50:07
+4540,Daniel Lee,Burger,Main,4,21.64,Debit Card,2025-03-21 17:26:46
+9839,Carl Olson,Salad,Starter,4,6.1,Debit Card,2025-03-03 02:35:23
+5544,Derek Carlson,Fries,Starter,2,10.24,Credit Card,2025-04-18 11:28:47
+9823,Kenneth Coleman,Salad,Starter,2,5.34,Cash,2025-07-23 20:49:56
+9154,Jessica Williams,Salad,Starter,3,22.49,Credit Card,2025-06-18 20:47:35
+9089,Don Davis,Pizza,Main,5,16.93,Online Payment,2025-04-06 14:37:59
+3162,Kelly Huang,Salad,Starter,5,21.15,Credit Card,2025-02-15 17:55:56
+7117,Robert Mahoney,Cake,Dessert,1,3.02,Credit Card,2025-03-29 02:52:06
+6981,Melissa Diaz,Soup,Starter,3,8.73,Debit Card,2025-07-22 17:23:06
+3769,Jason Morgan,Brownie,Dessert,1,20.54,Debit Card,2025-04-26 16:42:34
+2229,Tiffany Gardner,Burger,Main,1,17.97,Cash,2025-06-15 15:06:21
+5577,Christina Castro,Pasta,Main,2,23.6,Cash,2025-02-08 12:12:53
+3343,Sherry Rogers,Pizza,Main,2,3.76,Cash,2025-07-05 23:29:01
+9564,Jon Boyd,Pizza,Main,5,10.14,Cash,2025-05-30 22:52:14
+8109,Jeffery Mason,Salad,Starter,2,15.56,Debit Card,2025-07-02 18:30:54
+8625,Mary Curtis,Cake,Dessert,5,22.96,Debit Card,2025-07-07 04:42:29
+2682,Elizabeth Smith,Pizza,Main,2,2.64,Online Payment,2025-02-05 17:47:23
+4212,Juan Lucero,Fries,Starter,5,15.29,Debit Card,2025-01-02 15:49:45
+7901,Karen Hester,Soup,Starter,4,3.07,Debit Card,2025-01-10 21:51:21
+7092,Michael Smith,Salad,Starter,3,3.13,Credit Card,2025-04-15 10:57:58
+5481,David Hamilton,Pasta,Main,3,18.74,Online Payment,2025-02-05 23:19:00
+9566,Matthew Cooper,Pasta,Main,1,23.91,Debit Card,2025-03-11 17:14:43
+2910,Dr. Brian Byrd,Soup,Starter,2,17.97,Online Payment,2025-02-02 11:53:09
+7489,Lisa Franklin,Salad,Starter,4,22.14,Credit Card,2025-04-29 12:51:10
+2842,Laura Archer,Pizza,Main,4,18.08,Credit Card,2025-06-27 17:59:36
+3744,James Black,Pizza,Main,3,7.77,Debit Card,2025-03-28 00:20:40
+6753,Jennifer Reed,Fries,Starter,2,15.2,Debit Card,2025-06-03 05:28:54
+1868,Joseph Butler,Pizza,Main,4,11.07,Credit Card,2025-02-12 06:26:46
+9088,Charles Evans,Soup,Starter,3,3.33,Online Payment,2025-05-15 11:37:30
+3605,Bradley Young,Brownie,Dessert,1,4.58,Online Payment,2025-04-16 14:09:40
+9562,Brian Wood,Cake,Dessert,1,4.19,Online Payment,2025-05-07 03:09:47
+6218,Preston Flynn,Fries,Starter,4,17.26,Credit Card,2025-05-19 13:00:37
+7705,Richard Garcia,Burger,Main,5,12.3,Online Payment,2025-02-11 03:19:15
+6266,Mark Davis,Brownie,Dessert,2,18.78,Credit Card,2025-07-28 02:34:47
+5326,Sandra Good,Burger,Main,3,2.42,Credit Card,2025-06-19 11:16:53
+4033,George Mack,Brownie,Dessert,5,9.64,Online Payment,2025-06-28 07:30:50
+5951,David Patel,Burger,Main,2,9.76,Credit Card,2025-08-12 17:00:52
+8851,Billy Tapia,Cake,Dessert,3,8.03,Cash,2025-07-10 21:53:03
+9659,Christopher Chapman,Soup,Starter,1,19.13,Online Payment,2025-03-20 14:46:35
+5460,Amy Brown,Pizza,Main,5,9.58,Credit Card,2025-05-03 18:38:26
+2891,James Bradley,Fries,Starter,1,19.41,Debit Card,2025-07-18 12:50:41
+5359,Teresa Rollins,Ice Cream,Dessert,5,19.48,Cash,2025-01-05 08:03:06
+1510,Fernando Burke,Fries,Starter,5,7.5,Debit Card,2025-04-10 07:42:52
+4902,Elizabeth Blake MD,Pizza,Main,5,5.38,Debit Card,2025-04-30 09:21:28
+7960,Diana House,Cake,Dessert,3,5.09,Cash,2025-01-04 06:48:05
+3327,Julie Johnson,Fries,Starter,1,19.11,Credit Card,2025-06-21 04:45:50
+1329,Monique Gonzalez,Burger,Main,1,20.63,Cash,2025-01-01 01:36:17
+4062,Daniel Gomez,Ice Cream,Dessert,4,21.39,Online Payment,2025-05-31 23:14:05
+2598,Kevin Meyer,Cake,Dessert,3,2.26,Cash,2025-05-19 09:12:52
+2342,Shawn Gonzalez,Pasta,Main,4,18.54,Debit Card,2025-03-07 13:59:50
+2785,Tiffany Scott,Pasta,Main,4,23.84,Online Payment,2025-05-19 12:24:51
+1312,Douglas Bryant,Burger,Main,3,16.3,Online Payment,2025-03-01 23:54:53
+1792,Michael Valentine,Ice Cream,Dessert,4,7.15,Debit Card,2025-05-13 07:01:52
+5948,Elizabeth Stanley,Cake,Dessert,1,11.95,Debit Card,2025-07-14 08:20:45
+6759,Nicole Collins,Pizza,Main,3,20.29,Cash,2025-03-06 17:30:51
+1947,Jeffrey Roberts,Pizza,Main,1,12.15,Online Payment,2025-04-29 10:32:01
+3800,Christopher Rodriguez,Ice Cream,Dessert,1,13.78,Debit Card,2025-03-02 18:17:17
+7768,Alexander Nielsen,Burger,Main,2,9.17,Online Payment,2025-05-18 12:15:16
+6706,Luis Welch,Brownie,Dessert,5,9.32,Debit Card,2025-04-06 18:44:14
+2754,Steven Gardner,Cake,Dessert,3,6.01,Cash,2025-07-28 20:12:26
+8676,Melissa Garcia,Burger,Main,3,11.5,Debit Card,2025-02-12 14:06:53
+2354,Margaret Burch,Fries,Starter,2,22.82,Cash,2025-07-30 16:06:45
+2660,Patricia Johnson,Burger,Main,3,14.93,Credit Card,2025-04-03 19:30:06
+3502,Dr. Rebekah Davenport,Ice Cream,Dessert,3,23.47,Credit Card,2025-07-08 08:16:00
+9429,Francisco Ramos,Pizza,Main,4,14.73,Online Payment,2025-01-16 23:15:16
+8675,Anthony Griffin,Pasta,Main,3,6.38,Credit Card,2025-06-23 00:18:06
+8544,Melissa Ballard,Ice Cream,Dessert,2,6.19,Online Payment,2025-04-22 14:02:08
+7586,Mr. Douglas James MD,Pasta,Main,4,7.76,Online Payment,2025-01-18 12:47:22
+4837,Mark Campbell,Salad,Starter,4,17.71,Debit Card,2025-05-04 13:34:04
+9922,Brian Brown,Pasta,Main,5,16.28,Credit Card,2025-08-10 10:15:37
+1239,Erica Sutton,Fries,Starter,3,17.61,Cash,2025-03-23 00:51:35
+5344,Alyssa Phillips,Salad,Starter,1,12.71,Online Payment,2025-05-20 23:28:50
+2780,Crystal Landry,Fries,Starter,3,8.6,Credit Card,2025-07-14 13:51:16
+4352,Janet Clark,Soup,Starter,5,2.51,Credit Card,2025-04-09 04:26:07
+5707,Jeffrey Ortiz,Brownie,Dessert,5,12.33,Debit Card,2025-03-01 18:55:59
+6776,Yvonne Davis,Soup,Starter,5,22.33,Online Payment,2025-02-13 17:44:33
+9412,Elizabeth Clark,Cake,Dessert,2,18.29,Credit Card,2025-01-12 09:01:38
+4681,James Brown,Fries,Starter,3,8.73,Credit Card,2025-02-09 23:48:12
+4115,William Blevins,Fries,Starter,1,8.92,Cash,2025-03-26 07:57:36
+8137,James Chase,Burger,Main,5,22.71,Online Payment,2025-06-16 07:59:30
+7965,Timothy Thomas,Cake,Dessert,5,6.64,Online Payment,2025-04-22 00:59:45
+4803,Denise Ortega,Ice Cream,Dessert,5,7.76,Online Payment,2025-04-17 12:31:41
+9593,Jamie Phillips,Fries,Starter,5,12.02,Debit Card,2025-01-09 13:54:39
+6247,Ryan Zavala,Pizza,Main,5,8.54,Debit Card,2025-01-11 05:34:39
+6030,Corey Roberts,Salad,Starter,1,20.33,Cash,2025-03-26 09:27:13
+3546,Julie Hale,Ice Cream,Dessert,5,3.44,Credit Card,2025-08-13 23:44:23
+1425,Jeanette Hayes,Ice Cream,Dessert,3,24.52,Debit Card,2025-07-10 19:21:13
+1909,Jonathan Smith,Soup,Starter,4,16.89,Credit Card,2025-02-21 23:08:41
+4165,Ashley Swanson,Burger,Main,5,19.01,Cash,2025-01-26 01:02:43
+7976,Ronald Floyd,Pizza,Main,4,4.07,Online Payment,2025-07-22 17:45:03
+5095,Mrs. Amber Hansen,Cake,Dessert,3,18.92,Credit Card,2025-03-28 17:29:59
+7910,Christopher Ruiz,Salad,Starter,1,15.78,Online Payment,2025-01-18 18:55:13
+4183,Teresa Garcia,Pizza,Main,2,7.16,Credit Card,2025-05-26 23:29:26
+7301,Kimberly Tyler,Fries,Starter,4,2.81,Credit Card,2025-01-24 10:51:26
+3565,Malik Rodriguez,Brownie,Dessert,3,12.74,Cash,2025-02-03 00:32:15
+2365,John Garcia,Cake,Dessert,4,16.17,Credit Card,2025-03-02 06:13:44
+4559,Daniel Jennings,Fries,Starter,3,20.32,Cash,2025-07-13 12:15:31
+5831,Crystal Collier,Salad,Starter,1,6.23,Credit Card,2025-05-24 08:50:22
+3293,Paul Cook,Burger,Main,5,6.91,Credit Card,2025-03-21 02:02:43
+2458,Robert James,Burger,Main,2,18.83,Online Payment,2025-01-28 21:40:10
+6672,Martin Estrada,Brownie,Dessert,1,8.92,Debit Card,2025-02-05 01:29:55
+5547,Carmen Gonzalez,Salad,Starter,1,20.57,Debit Card,2025-02-26 19:03:23
+4050,Deborah Morris,Fries,Starter,5,5.92,Online Payment,2025-01-31 10:05:26
+8255,Kimberly Barnett,Pasta,Main,5,20.85,Credit Card,2025-05-09 05:01:15
+1878,Diana Fry,Pizza,Main,2,24.7,Debit Card,2025-04-30 21:17:26
+3188,Jonathan Jones,Soup,Starter,4,11.67,Debit Card,2025-04-24 14:37:23
+4274,Shane Gallegos MD,Burger,Main,4,8.19,Online Payment,2025-06-16 04:03:00
+4484,Amanda Jones,Pizza,Main,5,11.26,Cash,2025-05-30 11:32:08
+9578,Christopher Rodriguez,Salad,Starter,2,2.08,Debit Card,2025-08-13 11:41:21
+8184,Amanda Keller,Brownie,Dessert,2,8.43,Debit Card,2025-01-07 05:36:19
+5559,Autumn Robinson,Cake,Dessert,1,20.93,Debit Card,2025-04-13 02:12:07
+9674,Ashley Hull,Pizza,Main,4,23.01,Credit Card,2025-07-24 05:14:33
+6807,Jose Kane,Fries,Starter,4,3.6,Credit Card,2025-03-02 16:09:22
+6918,Luis Mccullough,Ice Cream,Dessert,3,11.34,Cash,2025-06-18 10:36:23
+6578,Derek Delgado,Fries,Starter,4,16.74,Cash,2025-01-29 18:05:24
+8280,Shannon Mueller,Pizza,Main,2,22.99,Cash,2025-03-22 04:57:13
+6212,Stephen Campbell,Burger,Main,1,18.24,Cash,2025-03-05 00:09:42
+4844,Anthony Wilson,Fries,Starter,3,15.93,Credit Card,2025-05-30 05:29:53
+9816,Katelyn Brown,Burger,Main,5,5.63,Cash,2025-06-13 03:41:49
+3339,Alexander Wallace,Pasta,Main,3,20.01,Online Payment,2025-07-18 18:47:35
+9586,Sarah Ponce,Pizza,Main,4,22.44,Online Payment,2025-02-21 09:55:21
+1055,David Gutierrez,Ice Cream,Dessert,5,3.97,Online Payment,2025-01-08 22:56:09
+3304,Ashley Davis,Pasta,Main,5,24.02,Online Payment,2025-06-07 16:06:02
+4961,Ricky Jacobs,Pizza,Main,5,17.0,Debit Card,2025-07-27 19:57:18
+3402,Mrs. Kristi Myers,Pasta,Main,2,21.07,Cash,2025-02-04 08:47:41
+2513,Anthony Wells,Pizza,Main,1,3.89,Online Payment,2025-05-26 18:30:53
+5747,Richard Rodriguez,Ice Cream,Dessert,2,8.57,Credit Card,2025-04-10 12:57:23
+9319,John Mckinney,Ice Cream,Dessert,4,14.17,Online Payment,2025-01-28 08:27:51
+6092,Timothy Miller,Fries,Starter,5,21.43,Cash,2025-07-11 04:42:09
+6389,Gerald Watson,Soup,Starter,5,14.74,Cash,2025-07-16 09:55:19
+7554,Maurice Lyons,Pasta,Main,4,2.69,Credit Card,2025-01-12 07:18:52
+6939,Tracy Bryant,Fries,Starter,1,6.67,Credit Card,2025-01-28 09:19:52
+1681,Tabitha Bernard,Pasta,Main,2,14.85,Debit Card,2025-08-11 18:18:02
+5080,Jean Morris,Ice Cream,Dessert,2,3.79,Debit Card,2025-01-28 13:23:24
+2945,Adam Klein,Pizza,Main,5,13.3,Cash,2025-02-01 03:46:08
+3193,Matthew Lara,Burger,Main,4,14.15,Online Payment,2025-01-13 07:45:25
+1270,Christopher Noble,Brownie,Dessert,2,4.1,Cash,2025-06-17 20:57:11
+8290,Jeanette Ramirez,Soup,Starter,2,16.98,Credit Card,2025-03-20 14:17:09
+6279,Scott Petty,Brownie,Dessert,1,23.87,Credit Card,2025-03-08 17:02:44
+6329,James Thomas,Burger,Main,3,3.26,Online Payment,2025-01-18 21:53:02
+5845,Alicia Clark,Soup,Starter,5,10.83,Credit Card,2025-04-12 00:03:30
+6490,Deborah Green,Pizza,Main,5,4.09,Online Payment,2025-02-21 02:59:16
+2227,Melissa Curry,Brownie,Dessert,1,11.66,Online Payment,2025-03-01 22:30:33
+5913,Danielle Carey,Soup,Starter,2,6.12,Credit Card,2025-07-14 12:38:16
+6263,Jaime Cook,Salad,Starter,5,6.99,Cash,2025-03-14 06:35:59
+4937,Caleb Little,Cake,Dessert,5,16.07,Credit Card,2025-02-15 00:38:57
+7016,Melinda Levine,Fries,Starter,5,9.0,Credit Card,2025-01-29 10:09:32
+7426,Andrew Reilly,Soup,Starter,3,19.13,Debit Card,2025-03-22 14:22:43
+4296,Jeffrey Hernandez,Salad,Starter,1,13.44,Online Payment,2025-01-08 12:57:28
+9305,Jonathan Lynch,Cake,Dessert,1,5.14,Credit Card,2025-07-27 03:31:52
+4389,Ashley Dominguez,Fries,Starter,3,24.74,Debit Card,2025-03-10 15:57:50
+9369,Michelle Harris,Burger,Main,5,20.75,Credit Card,2025-06-15 23:04:21
+5293,John Fisher,Pizza,Main,3,19.29,Credit Card,2025-02-18 08:39:15
+6341,Patrick Gibson,Pasta,Main,4,16.48,Cash,2025-01-20 20:30:07
+7046,Jeremy Johnson,Pasta,Main,2,13.69,Cash,2025-04-13 18:17:07
+8482,Alexis Williams,Cake,Dessert,1,17.95,Credit Card,2025-03-14 04:14:22
+1815,Veronica Pitts,Brownie,Dessert,1,16.84,Online Payment,2025-05-22 14:10:37
+3912,Wesley Walters,Pasta,Main,3,4.5,Debit Card,2025-03-05 10:53:11
+2740,Mark Santiago,Soup,Starter,4,20.47,Online Payment,2025-07-20 02:22:00
+5509,Jason Rocha,Pizza,Main,3,17.18,Credit Card,2025-04-27 11:43:51
+7469,Jasmine Sharp,Fries,Starter,3,16.38,Cash,2025-01-20 21:57:48
+8216,Allison Lynch,Burger,Main,4,4.46,Cash,2025-07-03 04:25:23
+7631,Stacy Wagner,Fries,Starter,1,18.78,Online Payment,2025-08-11 15:20:10
+1383,Elaine Wong,Cake,Dessert,2,23.5,Online Payment,2025-06-12 22:00:48
+6590,Jason Hill,Soup,Starter,5,17.04,Debit Card,2025-03-29 16:25:41
+5766,Robert Glover,Brownie,Dessert,5,6.02,Debit Card,2025-01-25 20:37:46
+6863,Marisa Chang,Fries,Starter,1,16.38,Debit Card,2025-03-27 12:16:48
+2443,Charles Johnson,Pizza,Main,1,5.37,Credit Card,2025-02-15 22:47:05
+7019,Guy Gay,Burger,Main,4,21.44,Debit Card,2025-07-25 22:43:46
+8968,Karen Cain,Pizza,Main,1,16.31,Online Payment,2025-03-23 15:16:35
+2795,Ashley Poole,Ice Cream,Dessert,1,4.6,Cash,2025-04-30 03:41:31
+7004,Wanda Gould,Pasta,Main,3,12.29,Online Payment,2025-05-11 10:45:50
+8828,Bailey Pearson,Salad,Starter,1,13.11,Cash,2025-04-14 06:03:32
+5892,David Rodriguez,Cake,Dessert,5,22.63,Credit Card,2025-04-10 14:07:29
+8740,Ashley Wilson,Cake,Dessert,5,12.26,Credit Card,2025-02-09 21:00:45
+5294,Christopher Romero,Burger,Main,3,11.86,Cash,2025-05-09 14:13:25
+2391,Denise Thompson,Salad,Starter,1,9.02,Debit Card,2025-01-04 01:09:15
+3639,Billy Wade,Ice Cream,Dessert,1,9.7,Cash,2025-03-05 06:04:09
+6792,Jason Martin,Soup,Starter,4,8.76,Online Payment,2025-03-18 13:25:29
+2330,Patricia Jenkins,Ice Cream,Dessert,1,10.11,Online Payment,2025-05-16 19:43:48
+3834,Veronica Bray,Fries,Starter,3,7.91,Cash,2025-02-08 04:06:24
+4060,Emily Jackson,Ice Cream,Dessert,4,13.71,Online Payment,2025-04-24 05:16:33
+6280,Julie Tucker,Ice Cream,Dessert,1,16.94,Cash,2025-07-15 23:05:07
+8460,Christopher Dunlap,Soup,Starter,5,24.88,Online Payment,2025-03-03 08:36:07
+8196,Michele Ball,Brownie,Dessert,1,13.91,Online Payment,2025-04-09 17:49:36
+8927,Courtney Patterson,Soup,Starter,1,18.17,Cash,2025-06-29 16:52:01
+4908,Christina Garcia,Ice Cream,Dessert,4,2.51,Online Payment,2025-01-28 14:45:09
+9888,Timothy Harris,Pasta,Main,1,13.86,Debit Card,2025-06-03 18:34:12
+4250,Amber Gomez,Brownie,Dessert,2,2.62,Credit Card,2025-03-05 10:31:03
+9625,Matthew Rogers,Pizza,Main,1,16.55,Debit Card,2025-06-03 02:37:19
+1812,Dr. James Garza,Burger,Main,4,22.68,Cash,2025-07-27 21:00:09
+9969,Monica Hill,Fries,Starter,3,9.42,Debit Card,2025-06-07 09:10:16
+6634,Sara Graham,Pasta,Main,5,24.87,Credit Card,2025-06-02 10:53:27
+2710,Amy Browning,Pasta,Main,3,15.26,Credit Card,2025-06-05 20:32:22
+9737,Daniel Fowler,Salad,Starter,1,9.07,Credit Card,2025-04-23 06:37:04
+9001,Geoffrey Jenkins,Pasta,Main,5,11.9,Online Payment,2025-06-04 21:40:50
+2723,Tamara Wu,Soup,Starter,5,12.25,Online Payment,2025-02-11 02:01:11
+8964,Frank Pena,Pasta,Main,4,3.5,Online Payment,2025-07-31 12:30:26
+2894,Julie Watson DVM,Ice Cream,Dessert,2,18.21,Online Payment,2025-03-12 13:32:49
+2849,Jasmine Harvey,Brownie,Dessert,1,7.33,Cash,2025-01-21 11:10:17
+4870,Casey Jones,Cake,Dessert,2,8.52,Online Payment,2025-01-25 07:34:14
+4224,Carlos Downs,Pasta,Main,4,24.36,Debit Card,2025-01-22 01:14:54
+3217,Michael Smith,Brownie,Dessert,4,9.4,Debit Card,2025-06-11 14:28:13
+5467,Curtis Brown,Fries,Starter,2,6.3,Debit Card,2025-02-19 13:31:22
+1574,Amanda Waters,Salad,Starter,2,18.47,Credit Card,2025-07-08 16:06:00
+2799,William Collins,Ice Cream,Dessert,1,13.62,Cash,2025-06-25 13:54:05
+7981,Wesley Jimenez,Fries,Starter,5,9.07,Credit Card,2025-04-24 00:36:36
+2085,Karen Sullivan,Salad,Starter,5,6.46,Debit Card,2025-06-06 22:35:12
+1708,Daniel Flores,Burger,Main,1,8.13,Online Payment,2025-04-29 09:53:53
+2279,Kristy Nash,Pizza,Main,3,14.58,Credit Card,2025-02-27 17:15:58
+9513,Lisa Walters,Brownie,Dessert,2,9.81,Debit Card,2025-03-23 18:38:49
+1936,Kenneth Miranda,Burger,Main,1,7.43,Credit Card,2025-08-10 00:07:31
+9175,Mark Smith,Cake,Dessert,4,16.02,Credit Card,2025-07-28 06:31:06
+1263,Mike Blackwell,Pizza,Main,1,19.62,Online Payment,2025-04-29 19:17:22
+7725,Larry Perry MD,Pizza,Main,2,5.31,Credit Card,2025-01-23 14:59:47
+5133,Diane Myers,Burger,Main,4,3.18,Cash,2025-01-16 05:47:36
+3356,Deborah Salazar,Fries,Starter,4,12.8,Debit Card,2025-06-05 19:11:21
+9879,Joseph Barnes,Ice Cream,Dessert,3,4.05,Cash,2025-06-15 05:15:23
+7792,Brandon King,Salad,Starter,1,6.8,Debit Card,2025-07-14 14:41:50
+6272,Vicki Taylor,Ice Cream,Dessert,2,3.8,Online Payment,2025-08-03 20:50:56
+7194,Christina Adams,Pasta,Main,5,18.18,Cash,2025-02-27 13:51:15
+4195,Brian Smith,Brownie,Dessert,1,21.71,Debit Card,2025-03-03 22:26:19
+7535,Corey Rodriguez,Salad,Starter,2,22.45,Cash,2025-04-08 09:28:37
+2318,Christopher Scott,Soup,Starter,5,13.95,Debit Card,2025-03-12 07:38:41
+7659,Susan Carter,Pasta,Main,1,16.06,Cash,2025-08-06 17:35:34
+8279,Richard Roberts,Burger,Main,2,12.61,Credit Card,2025-08-04 00:41:21
+4525,Kimberly Carter,Salad,Starter,5,23.15,Credit Card,2025-03-17 09:05:44
+5166,Thomas Burch,Ice Cream,Dessert,1,11.52,Credit Card,2025-01-12 08:32:52
+5188,Sarah Baker,Fries,Starter,5,17.43,Online Payment,2025-06-24 16:22:37
+9748,Wesley Le,Cake,Dessert,3,24.03,Credit Card,2025-07-04 17:02:58
+5520,Michael Robinson,Pasta,Main,2,7.19,Credit Card,2025-03-29 13:20:53
+4959,Jennifer Pearson,Salad,Starter,3,11.61,Cash,2025-04-20 22:52:11
+9101,Laura Valdez,Burger,Main,3,4.78,Online Payment,2025-07-28 00:33:12
+5098,Christina Johnson,Pasta,Main,5,10.46,Debit Card,2025-07-30 11:33:27
+1084,Eric Nguyen,Pizza,Main,4,22.41,Online Payment,2025-03-24 01:48:12
+7476,William Cross,Salad,Starter,4,22.46,Cash,2025-04-28 20:25:12
+1066,Melissa Duncan,Fries,Starter,2,22.97,Debit Card,2025-07-06 08:10:00
+1388,David Robinson,Cake,Dessert,4,22.78,Cash,2025-06-13 15:22:13
+8526,Jane Guzman,Salad,Starter,1,15.84,Cash,2025-06-17 21:22:22
+5252,Lisa Gregory,Fries,Starter,2,24.51,Cash,2025-07-27 11:06:52
+9798,Mark Randolph,Cake,Dessert,5,10.53,Cash,2025-04-17 18:30:55
+2065,Jade Gilbert,Burger,Main,4,19.86,Online Payment,2025-01-02 10:36:15
+5103,Brian Hernandez,Brownie,Dessert,3,13.97,Online Payment,2025-05-09 18:52:06
+6685,Gregory Stephens,Brownie,Dessert,1,17.35,Debit Card,2025-06-24 00:55:41
+3640,Marvin Bonilla,Pasta,Main,5,14.17,Online Payment,2025-07-24 16:57:38
+8700,Linda Dean,Pizza,Main,1,6.27,Credit Card,2025-06-08 12:54:59
+5416,Casey Gonzalez,Brownie,Dessert,4,12.91,Online Payment,2025-05-03 05:15:06
+6070,Nicholas Carter,Cake,Dessert,3,14.89,Online Payment,2025-03-22 07:05:56
+8560,Kenneth Ferguson,Pizza,Main,1,20.26,Credit Card,2025-08-07 08:55:03
+3609,Michael Gordon,Salad,Starter,2,15.5,Cash,2025-03-08 23:54:03
+7628,Jose Macias,Burger,Main,2,22.54,Credit Card,2025-05-14 08:41:50
+1496,David Ellis,Fries,Starter,5,20.81,Credit Card,2025-05-27 19:58:48
+2966,Heather Collins,Ice Cream,Dessert,2,8.85,Credit Card,2025-08-11 14:55:51
+1057,Hannah Brown,Soup,Starter,5,5.12,Credit Card,2025-04-08 03:59:14
+7424,Derek Cooper,Cake,Dessert,1,2.51,Credit Card,2025-03-16 09:13:45
+3765,Roberto Farrell,Cake,Dessert,3,7.48,Online Payment,2025-07-16 13:38:21
+9130,Valerie Jones,Fries,Starter,4,18.67,Online Payment,2025-02-10 07:53:11
+7532,Dennis Turner,Brownie,Dessert,4,23.76,Online Payment,2025-08-10 19:33:18
+5614,Elizabeth Jones,Pizza,Main,5,8.86,Cash,2025-05-04 09:08:25
+2647,Jennifer Snyder,Fries,Starter,4,21.58,Debit Card,2025-05-01 12:21:57
+4367,Christopher Frederick,Cake,Dessert,5,4.4,Cash,2025-04-05 14:19:36
+3517,Christopher Ali,Cake,Dessert,2,19.52,Cash,2025-04-06 03:15:29
+8008,Paul Wright MD,Pizza,Main,1,10.08,Online Payment,2025-07-22 06:25:08
+4569,Jonathan Turner,Burger,Main,4,19.73,Credit Card,2025-03-14 09:32:22
+9207,Joseph Kelley,Brownie,Dessert,4,13.24,Cash,2025-02-13 01:16:21
+1177,Janice Sanchez,Soup,Starter,5,2.44,Cash,2025-04-07 13:48:37
+1489,James Moran,Ice Cream,Dessert,4,10.0,Cash,2025-01-02 15:46:54
+5324,Lauren Mendez,Pizza,Main,1,22.59,Online Payment,2025-01-24 19:52:44
+9744,Jean Miller,Ice Cream,Dessert,5,9.69,Online Payment,2025-05-29 12:50:23
+3312,Darrell Wolfe,Fries,Starter,2,21.63,Online Payment,2025-05-03 15:11:37
+2859,Carolyn Wright,Soup,Starter,5,23.02,Cash,2025-03-29 13:31:35
+7900,Evan Howard,Pizza,Main,4,3.61,Online Payment,2025-03-11 12:11:32
+6017,Norma Avila,Pasta,Main,4,20.7,Credit Card,2025-07-06 14:32:40
+9855,Anthony Robinson,Brownie,Dessert,5,3.58,Credit Card,2025-05-02 07:51:07
+4718,James Rose,Pizza,Main,1,5.11,Credit Card,2025-04-28 03:34:16
+2144,Courtney Dixon,Cake,Dessert,5,13.65,Cash,2025-07-10 03:21:01
+4700,Megan Peterson,Pizza,Main,4,18.38,Online Payment,2025-07-21 22:05:41
+4013,Jessica Richmond,Pizza,Main,4,17.87,Debit Card,2025-05-25 14:25:29
+6920,Jennifer Hunter,Fries,Starter,3,17.36,Cash,2025-06-07 11:18:33
+3164,Michael Woodward,Ice Cream,Dessert,3,14.01,Debit Card,2025-05-04 03:28:04
+9913,Kevin Walker,Fries,Starter,2,18.8,Debit Card,2025-04-30 05:04:46
+1402,Heather Russell,Brownie,Dessert,4,15.75,Credit Card,2025-03-12 14:07:38
+7920,Jennifer Santos,Soup,Starter,1,6.65,Debit Card,2025-06-14 20:05:22
+3680,Lucas Santiago,Brownie,Dessert,4,24.79,Cash,2025-05-22 19:51:58
+8767,Gregory Hicks MD,Pizza,Main,2,3.25,Cash,2025-06-02 23:01:30
+8243,Anthony Armstrong,Fries,Starter,4,6.04,Debit Card,2025-08-12 23:49:58
+9450,Pamela Moore,Salad,Starter,3,22.03,Online Payment,2025-07-14 12:55:33
+9927,Gary Phillips,Pasta,Main,2,17.57,Debit Card,2025-03-24 20:55:14
+2141,Jennifer Williams,Pizza,Main,3,23.69,Debit Card,2025-06-17 11:43:21
+8174,Troy Roberts,Pasta,Main,2,7.19,Credit Card,2025-04-06 05:47:27
+1595,Thomas Pineda,Cake,Dessert,5,19.21,Cash,2025-04-27 08:08:06
+6626,Robert Campbell,Salad,Starter,1,21.57,Cash,2025-04-20 13:58:42
+5816,Monique Camacho,Fries,Starter,2,4.4,Debit Card,2025-02-07 22:54:18
+8483,Ethan Combs,Ice Cream,Dessert,4,16.21,Online Payment,2025-03-05 20:27:56
+4002,Patrick Hammond,Ice Cream,Dessert,4,12.85,Credit Card,2025-04-24 09:40:02
+9294,Thomas Aguirre,Salad,Starter,4,17.29,Debit Card,2025-06-15 06:59:57
+8884,Larry Higgins,Pizza,Main,3,9.64,Debit Card,2025-05-30 16:30:12
+4478,Donald Scott,Soup,Starter,1,12.99,Online Payment,2025-06-27 00:46:31
+8875,Jennifer Moreno,Brownie,Dessert,2,20.3,Online Payment,2025-04-16 04:11:26
+3775,Heather Peterson,Burger,Main,5,14.54,Debit Card,2025-07-18 12:26:07
+6805,Michael Roberts,Fries,Starter,1,16.32,Credit Card,2025-01-29 03:45:58
+8360,Michael Skinner,Brownie,Dessert,4,19.7,Debit Card,2025-02-03 00:37:12
+1955,Derek Young,Cake,Dessert,2,8.64,Online Payment,2025-05-11 21:18:37
+5940,Jeanette Flynn,Pizza,Main,1,13.85,Online Payment,2025-08-10 02:16:39
+4403,Suzanne Graham,Soup,Starter,2,24.01,Cash,2025-03-27 08:24:22
+2578,Brittany Watson,Soup,Starter,1,24.64,Cash,2025-02-05 00:37:28
+9772,Cody Gonzalez,Brownie,Dessert,5,2.81,Debit Card,2025-04-20 18:49:39
+1326,Shane Garcia,Pizza,Main,3,21.3,Online Payment,2025-03-31 19:58:00
+2047,Miguel Mendoza,Ice Cream,Dessert,2,4.24,Credit Card,2025-05-05 04:18:27
+5946,Timothy Reeves,Ice Cream,Dessert,1,12.57,Credit Card,2025-02-11 01:52:32
+6314,Amanda Mahoney,Burger,Main,4,9.64,Cash,2025-05-17 01:26:05
+6686,John Sutton,Burger,Main,2,6.44,Debit Card,2025-08-04 07:20:19
+1439,Eric Moss,Brownie,Dessert,5,7.94,Debit Card,2025-04-14 02:26:51
+9936,Debbie Castillo,Salad,Starter,2,15.76,Credit Card,2025-02-24 01:19:37
+3280,Kelly Curry,Ice Cream,Dessert,4,2.06,Cash,2025-04-18 01:57:04
+9997,Elizabeth Hunter,Soup,Starter,1,4.58,Debit Card,2025-01-11 00:23:42
+5387,Elizabeth Frazier,Soup,Starter,1,16.58,Cash,2025-04-20 02:29:39
+5318,Erica Browning,Burger,Main,5,2.15,Credit Card,2025-06-10 13:33:38
+2035,James Morgan,Pasta,Main,5,12.83,Credit Card,2025-03-06 03:34:16
+6151,Margaret Mcdowell,Ice Cream,Dessert,2,13.64,Online Payment,2025-07-19 03:04:58
+9414,Steven Melendez,Fries,Starter,4,15.55,Cash,2025-08-13 15:50:55
+6635,Diane Garza,Pizza,Main,4,21.66,Credit Card,2025-07-12 09:30:50
+6244,Jason Russell,Burger,Main,1,5.86,Debit Card,2025-06-25 18:16:54
+2902,Catherine Martinez,Brownie,Dessert,4,20.26,Credit Card,2025-07-03 20:17:22
+8786,Thomas Huynh,Ice Cream,Dessert,2,2.27,Debit Card,2025-06-15 17:21:24
+2814,Susan Browning,Pizza,Main,1,8.5,Debit Card,2025-01-10 23:10:29
+5227,James Butler,Soup,Starter,4,13.64,Online Payment,2025-02-12 18:13:14
+6096,Joseph Hamilton,Brownie,Dessert,1,2.59,Online Payment,2025-07-09 08:52:16
+6323,Alyssa Anthony,Pizza,Main,1,21.31,Cash,2025-01-15 19:21:02
+9836,Jerry Pineda,Soup,Starter,3,15.99,Debit Card,2025-07-15 15:00:19
+1202,Brandy Smith,Pasta,Main,2,8.54,Credit Card,2025-08-03 23:47:28
+7876,Ivan Haynes,Soup,Starter,5,20.54,Credit Card,2025-07-23 08:10:06
+1509,Amber Mendez,Ice Cream,Dessert,2,18.86,Online Payment,2025-08-09 05:11:27
